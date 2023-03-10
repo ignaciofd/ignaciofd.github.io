@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: ignaciofd.github.io
+Token: 3762353de12294917cb2a9e7dfc63b02ce9f58a8c46d5f989a415f89d73ae36e
